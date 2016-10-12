@@ -1,5 +1,7 @@
-# mbed_VBLUno
+# mbed_VBLUno_nRF51822
 These are resources that help use mbed OS (2, 5) for VBLUno board of VNGIoTLab
+
+##VBLUno board
 + CPU: Nordic nRF51822XXAC - 256KB Flash - 32KB RAM - CortexM0
 + Arduino Uno Rev. 3 compatible connector for use with 3rd party shields
 + On-board DAPLink (CMSIS-DAP) interfaces: USB MSD, USB CDC (Virtual Comport), USB HID (DAP)
